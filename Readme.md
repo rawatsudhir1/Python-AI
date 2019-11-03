@@ -25,4 +25,8 @@ git clone https://github.com/rawatsudhir1/Python-AI.git
 4. Sign in with the account you used for seeting up Azure Subscription
 
 5. Click NEW PROJECT
- ![NewProject](/HandsOnImages/1.png) 
+
+ ![NewProject](/HandsOnImages/1.png)
+
+
+6.  
