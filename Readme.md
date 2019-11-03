@@ -24,9 +24,25 @@ git clone https://github.com/rawatsudhir1/Python-AI.git
 
 4. Sign in with the account you used for seeting up Azure Subscription
 
-5. Click NEW PROJECT
+5. Click **NEW PROJECT**
+![NewProject](/HandsOnImages/1.png)
 
- ![NewProject](/HandsOnImages/1.png)
+6. On the screen **Ceate new project** provide Name, Description (optional) 
+![CreateNewProject](/HandsOnImages/2.png)
 
+7. On **Resource** drop down menu, if no value is there then click **create new**
 
-6.  
+8. On **Create New Resource** provide Name, Subscription, Resource Group (create new resource group if you want), Kind, Location, Pricing Tier
+![CreateNewResource](/HandsOnImages/3.png)
+
+9.  For creating a new Resource Group (click new for Resource Group as mentioned above), provide Name and Location 
+![CreateNewResourceGroup](/HandsOnImages/3-1.png)
+
+10. Once all the information provided click **Create resource**
+![CreateNewResourceGroup](/HandsOnImages/4.png)
+
+11. Once resources got created, select **Project Types**, **Classification Types**, **Domains** and click **Create Project**
+![CreateProject](/HandsOnImages/5.png)
+
+12. Once project creation done, Click **Add images**
+![AddImages](/HandsOnImages/6.png)
