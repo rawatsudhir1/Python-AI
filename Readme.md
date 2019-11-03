@@ -24,6 +24,7 @@ git clone https://github.com/rawatsudhir1/Python-AI.git
 
 4. Sign in with the account you used for seeting up Azure Subscription
 
+
 5. Click **NEW PROJECT**
 ![NewProject](/HandsOnImages/1.png)
 
@@ -46,3 +47,19 @@ git clone https://github.com/rawatsudhir1/Python-AI.git
 
 12. Once project creation done, Click **Add images**
 ![AddImages](/HandsOnImages/6.png)
+
+13. In open window, navigate to the folder where all the images were stored (let's upload images from axes folder). Select All images and click **Open**
+![uploadImages](/HandsOnImages/7.png)
+
+14. Provide **My Tags** and click **Upload 79 files**
+![TagImages](/HandsOnImages/8.png)
+
+![TagImages1](/HandsOnImages/8-1.png)
+
+
+15. Click **Done** once all files were uploaded
+![TagImages1](/HandsOnImages/8-2.png)
+
+16. Now you can the iamges and it's tag
+![TagImages2](/HandsOnImages/9.png)
+
