@@ -89,3 +89,11 @@ git clone https://github.com/rawatsudhir1/Python-AI.git
 
 25. Provide [this link](https://www.sportforaction.com/wp-content/uploads/2017/08/Ski-Helmet-Ultralight-Sking-Helmet-CE-Certification-Snow-Ski-Skateboard-Snowboard-Helmet-55-61CM.jpg) in **Image URL** and click -> 
 ![QuickTest](/HandsOnImages/18.png)
+
+26. Let's copy values for the following variables
+    prediction_key 
+    Endpoint 
+    projectid
+    publishiterationname
+
+27
