@@ -5,7 +5,7 @@ This repo contains how to run image classification example using Microsoft cogni
 ## Prerequiste
 - Python 3.7
 - Microsoft Azure Subscription
-
+- pip install azure-cognitiveservices-vision-customvision
 
 ## Hands on
 
@@ -91,9 +91,27 @@ git clone https://github.com/rawatsudhir1/Python-AI.git
 ![QuickTest](/HandsOnImages/18.png)
 
 26. Let's copy values for the following variables
-    prediction_key 
-    Endpoint 
+    Endpoint
     projectid
     publishiterationname
+    prediction_key
+    
+27. Click settings and copy **Project Id** and **Endpoint**
+![CopyValue](/HandsOnImages/19.png)
 
-27
+28. Click **Performance** copy **Published as** 
+ ![CopyValue1](/HandsOnImages/20.png)
+
+29. Click **Prediction URL** and copy **Prediction-Key**
+![CopyValue2](/HandsOnImages/21.png) 
+
+30. Open **pythonAI.py** file
+
+31. Paste values we copied in previous steps and change the location of test image. 
+![PasteValue](/HandsOnImages/22.png)
+
+32. Run python code and watch output
+![Output](/HandsOnImages/23.png)
+
+
+# End of Hands on Lab !!!
