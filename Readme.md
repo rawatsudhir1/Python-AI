@@ -60,6 +60,32 @@ git clone https://github.com/rawatsudhir1/Python-AI.git
 15. Click **Done** once all files were uploaded
 ![TagImages1](/HandsOnImages/8-2.png)
 
-16. Now you can the iamges and it's tag
+16. Now you can see the images and it's tag
 ![TagImages2](/HandsOnImages/9.png)
 
+17. Repeat step 12-16 for other images. Once images taged and uploaded is done it will show all the tags and associated picture
+![AllTags](/HandsOnImages/10.png)
+
+18. Click **Train** 
+![Training](/HandsOnImages/11.png)
+
+19. On **Choose Training Type** select **Quick Training** and click **Train**
+![Training](/HandsOnImages/12.png)
+
+20. Wait while training is in process
+![Training1](/HandsOnImages/13.png)
+
+21. Once training is completed, click **Publish**
+![Publish](/HandsOnImages/14.png)
+
+22. On **Publish Model** screen, provide **Model name** and **Prediction resource** and click **Publish**
+![Publish1](/HandsOnImages/15.png)
+
+23. Let's do a quick test. Click **Predictions** 
+![Publish2](/HandsOnImages/16.png)
+
+24. Click **Quick Test**
+![Publish2](/HandsOnImages/17.png)
+
+25. Provide [this link](https://www.sportforaction.com/wp-content/uploads/2017/08/Ski-Helmet-Ultralight-Sking-Helmet-CE-Certification-Snow-Ski-Skateboard-Snowboard-Helmet-55-61CM.jpg) in **Image URL** and click -> 
+![QuickTest](/HandsOnImages/18.png)
